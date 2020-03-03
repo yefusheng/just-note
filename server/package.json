@@ -42,7 +42,7 @@
         "ldapjs": "^1.0.2",
         "lodash": "^4.17.4",
         "mime": "^2.2.0",
-        "mongoose": "^5.4.19",
+        "mongoose": "^5.7.5",
         "mpath": ">=0.5.1",
         "mustache": "^2.3.0",
         "nodemailer": "^4.6.3",
