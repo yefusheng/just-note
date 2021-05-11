@@ -40,7 +40,7 @@
         "koa-router": "7.0.0",
         "koa-static": "^4.0.2",
         "ldapjs": "^1.0.2",
-        "lodash": "^4.17.4",
+        "lodash": "^4.17.21",
         "mime": "^2.2.0",
         "mongoose": "^5.4.19",
         "mpath": ">=0.5.1",
